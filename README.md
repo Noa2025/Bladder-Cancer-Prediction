@@ -6,3 +6,4 @@ Key Findings:
 •	The best-performing models (Random Forest and Neural Networks) reached 0.80 accuracy and 0.81 precision, suggesting reliable discrimination between cystitis and bladder cancer using routine lab tests.
 •	Feature importance analysis identified a panel of demographic, renal, and urine-based features. The final selection combines well-known risk factors such as age, smoking, and hematuria (blood in urine) with renal and metabolic indicators, including estimated GFR, creatinine, potassium, and urine protein. Together, these features provide a compact and clinically feasible panel that balances predictive accuracy with practical applicability for bladder cancer detection.
 
+The dataset used in this project was obtained from the following published article: I-Jung Tsai et al., Diagnostics (Basel). 2022 Jan 14;12(1):203. doi: 10.3390/diagnostics12010203
